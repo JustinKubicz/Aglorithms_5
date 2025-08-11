@@ -1,4 +1,5 @@
-Justin Kubicz - PG5 Problem 6—Dungeons and Kine
+# Justin Kubicz - PG5 Problem 6—Dungeons and Kine
+
 The general algorithm breakdown is to find the minimum first role for a
 given number of dice with a given number of sides and a given target, as read from
 a file. Then, decrement the number of dice, and subtract the first roll's value from 
